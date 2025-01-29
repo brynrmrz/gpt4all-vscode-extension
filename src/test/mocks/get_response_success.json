@@ -1,0 +1,101 @@
+{
+    "data": [
+      {
+        "created": 0,
+        "id": "Reasoner v1",
+        "object": "model",
+        "owned_by": "humanity",
+        "parent": null,
+        "permissions": [
+          {
+            "allow_create_engine": false,
+            "allow_fine_tuning": false,
+            "allow_logprobs": false,
+            "allow_sampling": false,
+            "allow_search_indices": false,
+            "allow_view": true,
+            "created": 0,
+            "group": null,
+            "id": "placeholder",
+            "is_blocking": false,
+            "object": "model_permission",
+            "organization": "*"
+          }
+        ],
+        "root": "Reasoner v1"
+      },
+      {
+        "created": 0,
+        "id": "Llama 3 8B Instruct",
+        "object": "model",
+        "owned_by": "humanity",
+        "parent": null,
+        "permissions": [
+          {
+            "allow_create_engine": false,
+            "allow_fine_tuning": false,
+            "allow_logprobs": false,
+            "allow_sampling": false,
+            "allow_search_indices": false,
+            "allow_view": true,
+            "created": 0,
+            "group": null,
+            "id": "placeholder",
+            "is_blocking": false,
+            "object": "model_permission",
+            "organization": "*"
+          }
+        ],
+        "root": "Llama 3 8B Instruct"
+      },
+      {
+        "created": 0,
+        "id": "Llama 3.2 3B Instruct",
+        "object": "model",
+        "owned_by": "humanity",
+        "parent": null,
+        "permissions": [
+          {
+            "allow_create_engine": false,
+            "allow_fine_tuning": false,
+            "allow_logprobs": false,
+            "allow_sampling": false,
+            "allow_search_indices": false,
+            "allow_view": true,
+            "created": 0,
+            "group": null,
+            "id": "placeholder",
+            "is_blocking": false,
+            "object": "model_permission",
+            "organization": "*"
+          }
+        ],
+        "root": "Llama 3.2 3B Instruct"
+      },
+      {
+        "created": 0,
+        "id": "unsloth/DeepSeek-R1-Distill-Qwen-7B-GGUF",
+        "object": "model",
+        "owned_by": "humanity",
+        "parent": null,
+        "permissions": [
+          {
+            "allow_create_engine": false,
+            "allow_fine_tuning": false,
+            "allow_logprobs": false,
+            "allow_sampling": false,
+            "allow_search_indices": false,
+            "allow_view": true,
+            "created": 0,
+            "group": null,
+            "id": "placeholder",
+            "is_blocking": false,
+            "object": "model_permission",
+            "organization": "*"
+          }
+        ],
+        "root": "unsloth/DeepSeek-R1-Distill-Qwen-7B-GGUF"
+      }
+    ],
+    "object": "list"
+  }
